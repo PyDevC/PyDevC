@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PyDevC
+- 👀 I’m interested in Machine Learning and Development.
+- 🌱 I’m currently learning Python, Java, Web Dev, C, and R.
+- Following path to become machine learning researcher.
