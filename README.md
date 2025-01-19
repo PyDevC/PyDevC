@@ -1,6 +1,7 @@
 # PythonDevelopmentContributor (PyDevC)
 
 I am Anushk Sharma aka PyDevC
+
 I use neovim btw.
 
 ## Contributions
@@ -20,8 +21,8 @@ Sadly None
 
 ### Todo List
 - Learn AI basics
-- Learn Linux [ x ]
-- Learn Bash [ x ]
+- Learn Linux [Done]
+- Learn Bash [Done]
 - Make an Interpreter
 - Make a memory allocator
 - make a file manager
