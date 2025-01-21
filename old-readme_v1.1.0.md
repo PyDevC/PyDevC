@@ -2,10 +2,7 @@
 
 I am Anushk Sharma aka PyDevC
 
-I use neovim btw. (Not vim)
-
-> A language that doesn't affect the way you think about programming, is not worth knowing
->                                                                       - Alan Perlis
+I use neovim btw.
 
 ## Contributions
 
@@ -39,6 +36,4 @@ Sadly None
 #### Watch Me Grow
 
 Watch my profile grow from knowing just some basic programming to become a lead.
-see my pervious version of readme.
-> you can contribute to my profile or can suggest me new things for my profile.
-> If I like them, then I will implement.
+see my pervious version of readme
