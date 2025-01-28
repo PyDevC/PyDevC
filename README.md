@@ -1,8 +1,11 @@
 # PythonDevelopmentContributor (PyDevC)
+[![](https://visitcount.itsvg.in/api?id=PyDevC&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 I am Anushk Sharma aka PyDevC
 
-I use neovim btw. (Not vim)
+I use neovim btw. 
+
+I am a Developer ( which one figuring out ), likes compilers, interpreters, AMD, alot of side stuff.
 
 > A language that doesn't affect the way you think about programming, is not worth knowing
 
@@ -12,28 +15,22 @@ Decided to make a 3d contribution chart. Maybe changed later
 
 ## Repositories
 
-My Fav repositories that are not pinned 
+My Fav repositories that are not pinned <br>
+[Functional Scripts](functional-scripts)<br>
+[Neovim Config](nvim)<br>
 
 ## Achivements
-Sadly None 
+- Will be added soon
 
 ### Goals
 - [ ] AI researcher
 - [ ] Python Developer
 
 ### Todo List
-- Learn AI basics
-- Learn Linux [Done]
-- Learn Bash [Done]
-- Make an Interpreter
-- Make a memory allocator
-- make a file manager
-- make a terminal text editor
-- make a kernel
-- work with kvm
-- win Advent of code
-- win hackathons
-- GPU accelerated database
+- AutoML tool
+- GPU accelerated Database
+- Kernel bypass
+- System monitor optimizer
 
 #### Watch Me Grow
 
