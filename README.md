@@ -1,5 +1,5 @@
 # PythonDevelopmentContributor (PyDevC)
-[![](https://visitcount.itsvg.in/api?id=PyDevC&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![views count](https://visitcount.itsvg.in/api?id=PyDevC&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 I am Anushk Sharma aka PyDevC
 
@@ -16,8 +16,8 @@ Decided to make a 3d contribution chart. Maybe changed later
 ## Repositories
 
 My Fav repositories that are not pinned <br>
-[Functional Scripts](functional-scripts)<br>
-[Neovim Config](nvim)<br>
+[Functional Scripts](https://github.com/PyDevC/functional-scripts)<br>
+[Neovim Config](https://github.com/PyDevC/nvim)<br>
 
 ## Achivements
 - Will be added soon
