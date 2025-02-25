@@ -5,7 +5,7 @@ I am Anushk Sharma aka PyDevC
 
 I use neovim btw. 
 
-I am a Developer ( which one figuring out ), likes compilers, interpreters, AMD, alot of side stuff.
+I am a Developer ( which one figuring out ), likes compilers, interpreters, AMD, AI, Machine learning shell.
 
 > A language that doesn't affect the way you think about programming, is not worth knowing
 
@@ -18,6 +18,7 @@ Decided to make a 3d contribution chart. Maybe changed later
 My Fav repositories that are not pinned <br>
 [Functional Scripts](https://github.com/PyDevC/functional-scripts)<br>
 [Neovim Config](https://github.com/PyDevC/nvim)<br>
+[Build desktop](https://github.com/PyDevC/build_desktop)<br>
 
 ## Achivements
 - Will be added soon
