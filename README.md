@@ -1,5 +1,4 @@
 # PythonDevelopmentContributor (PyDevC)
-[![views count](https://visitcount.itsvg.in/api?id=PyDevC&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 I am Anushk Sharma aka PyDevC
 
@@ -7,18 +6,20 @@ I use neovim btw.
 
 I am a Developer ( which one figuring out ), likes compilers, interpreters, AMD, AI, Machine learning shell.
 
-> A language that doesn't affect the way you think about programming, is not worth knowing
+> A language that doesn't affect the way you think about programming, is not worth knowing<br>
+> <p align="right">Alan J. Perlis</p>
+
 
 ## Contributions
 
-Decided to make a 3d contribution chart. Maybe changed later
+No contribution to any public repo yet.
 
 ## Repositories
 
-My Fav repositories that are not pinned <br>
-[Functional Scripts](https://github.com/PyDevC/functional-scripts)<br>
-[Neovim Config](https://github.com/PyDevC/nvim)<br>
-[Build desktop](https://github.com/PyDevC/build_desktop)<br>
+You can check my dotfiles here [dotfiles](https://github.com/PyDevC/.dot.git)
+
+I am working on getting up the level of programming in college, for that I am 
+creating a lots of code snippets and documentations for all levels.
 
 ## Achivements
 - Will be added soon
@@ -28,8 +29,8 @@ My Fav repositories that are not pinned <br>
 - [ ] Python Developer
 
 ### Todo List
-- AutoML tool
-- GPU accelerated Database
+- Develop JET
+- GPU accelerated Database aka Kero-Sine
 - Kernel bypass
 - System monitor optimizer
 
