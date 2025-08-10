@@ -14,7 +14,8 @@ This time around I want to develop skills around GPU programming, game developme
 > A language that doesn't affect the way you think about programming, is not worth knowing<br>
 > <p align="right">Alan J. Perlis</p>
 
-![](https://github-readme-stats.vercel.app/api?username=PyDevC&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PyDevC\&rank_icon=percentile&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevC&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ## Contributions
 
 Contributing to pytorch (For now some small stuff)
