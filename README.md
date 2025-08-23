@@ -1,6 +1,7 @@
 # PythonDevelopmentContributor (PyDevC)
 
 I am Anushk Sharma aka PyDevC
+Hire me :)
 
 My name doesn't mean that I have contributed to Python but it means that I one day want to be a core developer of python.
 
@@ -18,12 +19,12 @@ This time around I want to develop skills around GPU programming, game developme
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevC&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ## Contributions
 
-Contributing to pytorch (For now some small stuff)
+Contributing to pytorch
 
 ### Future plans for pytorch
-- learn how to contribute to nn module
-- Need to look into ROCm and CUDA code as well
-- learn more about torch._dynamo
+- Working in autograd module of pytorch
+- Working in nn modules part of pytorch
+- Working in cuda and ROCm part of pytorch
 
 ### Other repositories to expect contributions in future
 - Godot (Game Engine)
@@ -36,21 +37,23 @@ You can check my dotfiles here:
 - [dotfiles](https://github.com/PyDevC/.dot.git)
 - [kero](https://github.com/PyDevC/kero.git)
 - [Build Desktop](https://github.com/PyDevC/build_desktop.git)
+- [model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim)
 
 ## Achivements
 - [x] GPU accelerated Database aka Kero-Sine
+- [x] Stable contributions to pytorch
+- [x] build my first neovim plugin (model-cmp.nvim)
 
 ### Goals
 - [ ] Kernel Developer
 - [ ] AI researcher (Already on it)
 - [ ] GPU software developer
-- [ ] Game developer
+- [ ] Game developer ---> more like game optimizer in gpu world
 
 ### Todo List
-- Build my neovim plugin (model-cmp.nvim)
 - make AI agent from scratch
 - Build a Desktop Environment ( UnixSoul )
-- Develop JET (Joint ENAS Training)
+- Develop JET (Joint ENAS Training) --> need to look into it
 
 #### Watch Me Grow
 
