@@ -1,6 +1,7 @@
 # PythonDevelopmentContributor (PyDevC)
 
 I am Anushk Sharma aka PyDevC
+
 Hire me :)
 
 My name doesn't mean that I have contributed to Python but it means that I one day want to be a core developer of python.
@@ -37,7 +38,8 @@ You can check my dotfiles here:
 - [dotfiles](https://github.com/PyDevC/.dot.git)
 - [kero](https://github.com/PyDevC/kero.git)
 - [Build Desktop](https://github.com/PyDevC/build_desktop.git)
-- [model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim)
+- [model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim.git)
+- [model_server](https://github.com/PyDevC/model_server.git)
 
 ## Achivements
 - [x] GPU accelerated Database aka Kero-Sine
