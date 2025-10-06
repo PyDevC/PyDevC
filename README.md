@@ -39,7 +39,6 @@ You can check my dotfiles here:
 - [kero](https://github.com/PyDevC/kero.git)
 - [Build Desktop](https://github.com/PyDevC/build_desktop.git)
 - [model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim.git)
-- [model_server](https://github.com/PyDevC/model_server.git)
 
 ## Achivements
 - [x] GPU accelerated Database aka Kero-Sine
