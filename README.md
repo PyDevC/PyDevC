@@ -16,6 +16,13 @@ This time around I want to develop skills around GPU programming, game developme
 > A language that doesn't affect the way you think about programming, is not worth knowing<br>
 > <p align="right">Alan J. Perlis</p>
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=PyDevC&label=Profile%20views&color=0e75b6&style=flat"
+    alt="mimikun"
+  />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=PyDevC\&rank_icon=percentile&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevC&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ## Contributions
