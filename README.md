@@ -8,10 +8,9 @@ My name doesn't mean that I have contributed to Python but it means that I one d
 
 I use neovim btw.
 
-I am a Developer ( which one figuring out ), likes compilers, interpreters, AMD, AI, Machine learning, shell.
-I am thinking of starting a career as AI compiler engineer or may be GPU architect, machine learning will be a little off on its own.
+I Like Compilers, GPUs, AMD, ROCm, NVIDIA, CUDA, PyTorch, Python, Neovim, my plugins, Shells, My Developer Workflow.
 
-This time around I want to develop skills around GPU programming, game development. I want to support my Whole domain around a specifc niche, which is GPU.
+I have started to learn about compiler design in for AI engineer or may be GPU architect/GPU Compiler Engineer. 
 
 > A language that doesn't affect the way you think about programming, is not worth knowing<br>
 > <p align="right">Alan J. Perlis</p>
@@ -19,51 +18,39 @@ This time around I want to develop skills around GPU programming, game developme
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=PyDevC&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mimikun"
+    alt="PyDevC Views count"
   />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=PyDevC\&rank_icon=percentile&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevC&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
-## Contributions
-
-Contributing to pytorch
-
-### Future plans for pytorch
-- Working in autograd module of pytorch
-- Working in nn modules part of pytorch
-- Working in cuda and ROCm part of pytorch
-
-### Other repositories to expect contributions in future
-- Godot (Game Engine)
-- ROCm (compiler stack)
-- Linuk Kernel (Yeah kernel development) :)
 
 ## Repositories
 
-You can check my dotfiles here: 
+Things I am proud of that I built:
+
 - [dotfiles](https://github.com/PyDevC/.dot.git)
+- [my neovim config](https://github.com/PyDevC/nvim.git)
 - [kero](https://github.com/PyDevC/kero.git)
-- [Build Desktop](https://github.com/PyDevC/build_desktop.git)
 - [model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim.git)
+- [model_server](https://github.com/PyDevC/model_server.git)
+- [Build Desktop](https://github.com/PyDevC/build_desktop.git)
 
 ## Achivements
 - [x] GPU accelerated Database aka Kero-Sine
-- [x] Stable contributions to pytorch
+- [x] Started Contributing to PyTorch
 - [x] build my first neovim plugin (model-cmp.nvim)
 
 ### Goals
-- [ ] Kernel Developer
-- [ ] AI researcher (Already on it)
-- [ ] GPU software developer
-- [ ] Game developer ---> more like game optimizer in gpu world
-
-### Todo List
-- make AI agent from scratch
-- Build a Desktop Environment ( UnixSoul )
-- Develop JET (Joint ENAS Training) --> need to look into it
+- [ ] Contributing to torch-mlir (frontend to PyTorch models for LLVM IR)
+- [ ] Established Contribution to PyTorch (torchdynamo, compiler backend)
+- [ ] Learn CUDA and GPU related technology (CUTLass, etc.)
+- [ ] Build a Desktop Environment ( UnixSoul )
+- [ ] Learn Compilers
+- [ ] Contribute to MLIR
+- [ ] Contribute to LLVM
 
 #### Watch Me Grow
 
-Watch my profile grow from knowing just some basic programming to become a lead.
-see my pervious version of readme.
+Watch my profile grow from knowing just some basic programming to become a AI compiler Framework Engineer.
+see my pervious version of README.
